@@ -2,3 +2,5 @@
 今天是星期六，很累人的
 
 Create a new branch is quick and simple.
+
+add merge
