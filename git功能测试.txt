@@ -4,3 +4,5 @@
 Create a new branch is quick and simple.
 
 add merge
+
+即将开始bug分支
