@@ -1,9 +1,0 @@
-今晚的月色很美
-今天是星期六，很累人的
-
-Create a new branch is quick and simple.
-
-add merge
-
-Git is a free software
-即将开始bug分支
